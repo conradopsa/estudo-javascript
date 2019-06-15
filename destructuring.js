@@ -7,12 +7,12 @@ let pessoa = {
     }
 }
 
-/*Destructuring: cria uma vari√°vel vis√≠vel no
+/*Destructuring: cria uma vari·vel visÌ≠vel no
 escopo atual a partir do atributo de um objeto*/
 let { nome } = pessoa;
 console.log(nome);
 
-//Alterando a vari√°vel
+//Alterando a vari·vel
 nome = 'Ozzy'
 console.log(nome, pessoa.nome);
 
