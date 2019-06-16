@@ -5,6 +5,7 @@ function areaTriangulo(){
 
 console.log(areaTriangulo(10,5));
 
+
 //Acessando cada argumento
 function imprimeParametro(){
     for (let i in arguments){
