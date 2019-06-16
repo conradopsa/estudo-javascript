@@ -5,6 +5,7 @@ function calcArea(l, a){
     return l * a;
 }
 
+
 //Possíveis Chamadas
 console.log(calcArea(10, 5));
 console.log(calcArea(10, 5, 20, 8, 40));
