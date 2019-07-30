@@ -1,0 +1,5 @@
+//Atualiza NodeJS ao editar arquivo do node
+$ npm install -g node-dev
+
+//Uso
+$ node-dev app.js
